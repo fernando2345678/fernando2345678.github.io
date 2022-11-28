@@ -1,0 +1,18 @@
+body{
+	background:aqua;
+}
+p{
+	color:blue;
+	font-family:verdana;
+	text-align:center;
+} 
+.alineacion-derecha{
+	font-size:20px;
+	text-align:right;
+}
+.fondo-silver{
+	background:silver;
+}
+.rojo{
+	color:red; 
+}
